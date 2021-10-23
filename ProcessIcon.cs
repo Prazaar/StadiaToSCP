@@ -35,7 +35,7 @@ namespace StadiaToSCP
 			ni.MouseClick += new MouseEventHandler(ni_MouseClick);
 			var icon = Resources.micontroller;
 			ni.Icon = icon;
-			ni.Text = "Mi controller interface application";
+			ni.Text = "Stadia interface application";
 			ni.Visible = true;
 
 			// Attach a context menu.
